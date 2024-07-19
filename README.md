@@ -12,17 +12,17 @@ Responsive Slider This is a responsive image slider with navigation arrows and d
 
 ## Demo
 
-[Live Demonstration](https://wyfir.github.io/Classic-Slider/)
+[Live Demonstration](https://wyfir.github.io/classic_slider/)
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/wyfir/Classic-Slider.git
+   git clone https://github.com/wyfir/classic_slider.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Classic-Slider
+   cd classic_slider
    ```
 
 ## Usage
@@ -43,6 +43,11 @@ Ensure you include the Boxicons CSS in your `<head>`:
   href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"
 />
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 # Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
